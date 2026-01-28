@@ -1,0 +1,19 @@
+num = float(input("Enter a number: "))
+
+if num > 0:
+    print("Positive")
+elif num < 0:
+    print("Negative")
+else:
+    print("Zero")
+
+# output
+Enter a number: 5
+Positive
+
+Enter a number: -3
+Negative
+
+Enter a number: 0
+Zero
+
