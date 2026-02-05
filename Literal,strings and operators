@@ -1,0 +1,13 @@
+a = 10          # integer literal
+b = 5.5         # float literal
+name = "Python" # string literal
+
+print(a + b)
+print(name)
+print(a > b)
+
+#output
+15.5
+Python
+True
+
