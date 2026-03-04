@@ -1,0 +1,13 @@
+s = input()
+
+for ch in s:
+    if s.count(ch) == 1:
+        print(ch)
+        break
+else:
+    print(-1)
+
+#input
+radar
+#output
+d
