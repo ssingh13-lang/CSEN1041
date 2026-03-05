@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("Enter n:"))
 
 a = 0
 b = 1
